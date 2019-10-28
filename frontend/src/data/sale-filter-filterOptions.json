@@ -1,0 +1,111 @@
+[
+    {
+        "value": "size",
+        "text": "Tamaño",
+        "options": [
+            {
+                "value": "36",
+                "text": "36"
+            },
+            {
+                "value": "38",
+                "text": "38"
+            },
+            {
+                "value": "40",
+                "text": "40"
+            },
+            {
+                "value": "42",
+                "text": "42"
+            },
+            {
+                "value": "s",
+                "text": "S"
+            },
+            {
+                "value": "m",
+                "text": "M"
+            },
+            {
+                "value": "l",
+                "text": "L"
+            }
+        ]
+    },
+    {
+        "value": "color",
+        "text": "Color",
+        "options": [
+            {
+                "hex": "#7A7A7A",
+                "value": "gray",
+                "text": "Gray"
+            },
+            {
+                "hex": "#000000",
+                "value": "black",
+                "text": "Black"
+            },
+            {
+                "hex": "#2532A3",
+                "value": "blue",
+                "text": "Blue"
+            },
+            {
+                "hex": "#268E20",
+                "value": "green",
+                "text": "Green"
+            },
+            {
+                "hex": "#FFFFFF",
+                "value": "white",
+                "text": "White"
+            }
+        ]
+    },
+    {
+        "value": "price",
+        "text": "Precio",
+        "options": [
+            {
+                "value": "5-15",
+                "text": "$ 5-15"
+            },
+            {
+                "value": "15-25",
+                "text": "$ 15-25"
+            },
+            {
+                "value": "25-45",
+                "text": "$ 25-45"
+            },
+            {
+                "value": "45-65",
+                "text": "$ 45-65"
+            },
+            {
+                "value": "65+",
+                "text": "$ 65+"
+            }
+        ]
+    },
+    {
+        "value": "sortBy",
+        "text": "Ordenar Por",
+        "options": [
+            {
+                "value": "relevance",
+                "text": "Relevancia"
+            },
+            {
+                "value": "lowToHigh",
+                "text": "Precion: Menor a Mayor"
+            },
+            {
+                "value": "highToLow",
+                "text": "Precion: Mayor a Menor"
+            }
+        ]
+    }
+]

@@ -1,0 +1,66 @@
+
+[
+  {
+    "image": "https://static.massimodutti.net/3/photos/2019/I/0/1/p/5605/534/531//5605534531_1_1_3.jpg?t=1558099830171",
+    "altText": "image",
+    "title": "Flat-Front Skinny Jeans",
+    "color": ["#2A3AAE","Dark Blue"],
+    "size": "38",
+    "amount": "1",
+    "price": 49.99
+  },
+  {
+    "image": "https://statics.glamit.com.ar/media/catalog/product/cache/91/image/621x773/9df78eab33525d08d6e5fb8d27136e95/p/o/portsaid_ap696820ca_ca_1_1.jpg",
+    "altText": "image",
+    "title": "Flat-Front Skinny Jeans",
+    "color": ["#2A3AAE","Dark Blue"],
+    "size": "38",
+    "amount": "1",
+    "price": 49.99
+  },
+  {
+    "image": "https://i1.adis.ws/i/boohooamplience/agg90878_mustard_xl?$product_page_main_magic_zoom$",
+    "altText": "image",
+    "title": "Flat-Front Skinny Jeans",
+    "color": ["#2A3AAE","Dark Blue"],
+    "size": "38",
+    "amount": "1",
+    "price": 49.99
+  },
+  {
+    "image": "https://dafitistaticar-a.akamaihd.net/p/moni-tricot-5293-689793-1-product.jpg",
+    "altText": "image",
+    "title": "Flat-Front Skinny Jeans",
+    "color": ["#2A3AAE","Dark Blue"],
+    "size": "38",
+    "amount": "1",
+    "price": 49.99
+  },
+  {
+    "image": "https://www.forever21.com/images/1_front_750/00384652-03.jpg",
+    "altText": "image",
+    "title": "Flat-Front Skinny Jeans",
+    "color": ["#2A3AAE","Dark Blue"],
+    "size": "38",
+    "amount": "1",
+    "price": 49.99
+  },
+  {
+    "image": "https://statics.glamit.com.ar/media/catalog/product/cache/90/base/685x857/9df78eab33525d08d6e5fb8d27136e95/d/e/desiderata_zp696550mp_mp_1.jpg",
+    "altText": "image",
+    "title": "Flat-Front Skinny Jeans",
+    "color": ["#2A3AAE","Dark Blue"],
+    "size": "38",
+    "amount": "1",
+    "price": 49.99
+  },
+  { 
+    "image": "https://medias-cache.placedestendances.com/image/57/7/2325577.315.jpg",
+    "altText": "image",
+    "title": "Flat-Front Skinny Jeans",
+    "color": ["#2A3AAE","Dark Blue"],
+    "size": "38",
+    "amount": "1",
+    "price": 49.99
+  }
+]

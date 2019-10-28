@@ -1,0 +1,60 @@
+[
+  {
+    "image": "https://picsum.photos/id/1027/422/576",
+    "altText": "image",
+    "link": "/product",
+    "price": "$49.99",
+    "description": "Classic Mid Rise Skinny Jeans"
+  },
+  {
+    "image": "https://picsum.photos/id/646/422/576",
+    "altText": "image",
+    "link": "/product",
+    "price": "$49.99",
+    "description": "Classic Mid Rise Skinny Jeans"
+
+  },
+  {
+    "image": "https://picsum.photos/id/449/422/576",
+    "altText": "image",
+    "link": "/product",
+    "price": "$49.99",
+    "description": "Classic Mid Rise Skinny Jeans"
+  },
+  {
+    "image": "https://picsum.photos/id/646/422/576",
+    "altText": "image",
+    "link": "/product",
+    "price": "$49.99",
+    "description": "Classic Mid Rise Skinny Jeans"
+  },
+  {
+    "image": "https://picsum.photos/id/1027/422/576",
+    "altText": "image",
+    "link": "/product",
+    "price": "$49.99",
+    "description": "Classic Mid Rise Skinny Jeans"
+
+  },
+  {
+    "image": "https://picsum.photos/id/449/422/576",
+    "altText": "image",
+    "link": "/product",
+    "price": "$49.99",
+    "description": "Classic Mid Rise Skinny Jeans"
+  },
+  {
+    "image": "https://picsum.photos/id/1027/422/576",
+    "altText": "image",
+    "link": "/product",
+    "price": "$49.99",
+    "description": "Classic Mid Rise Skinny Jeans"
+  },
+  {
+    "image": "https://picsum.photos/id/449/422/576",
+    "altText": "image",
+    "link": "/product",
+    "price": "$49.99",
+    "description": "Classic Mid Rise Skinny Jeans"
+  }
+]

@@ -1,0 +1,9 @@
+
+{
+  "image": "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=898&h=720&fit=crop&ixid=eyJhcHBfaWQiOjF9",
+  "altText": "My Shoes",
+  "title": "Zapatos",
+  "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
+  "buttonText": "Discover More",
+  "buttonLink": "/category"
+}

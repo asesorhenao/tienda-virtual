@@ -1,0 +1,166 @@
+{
+  "title": "Flat-Front Skinny Jeans",
+  "discount": "$49.99",
+  "price": "$59.99",
+  "reviews": [
+    {
+      "name": "Leah M.",
+      "verified": "Comprador verificado",
+      "rating": 5,
+      "title": "Buen Producto",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia saepe vero modi nihil ab cupiditate libero odio. Repudiandae, perferendis voluptatem sequi nisi sunt, inventore, pariatur voluptas corporis in tempore illum!",
+      "date": "02/08/19"
+    },
+    {
+      "name": "Leah M.",
+      "verified": "",
+      "rating": 4,
+      "title": "Me gusta este Producto",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia saepe vero modi nihil ab cupiditate libero odio. Repudiandae, perferendis voluptatem sequi nisi sunt, inventore, pariatur voluptas corporis in tempore illum!",
+      "date": "08/08/19"
+    },
+    {
+      "name": "Leah M.",
+      "verified": "Comprador verificado",
+      "rating": 4,
+      "title": "Me gusta este Producto",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia saepe vero modi nihil ab cupiditate libero odio. Repudiandae, perferendis voluptatem sequi nisi sunt, inventore, pariatur voluptas corporis in tempore illum!",
+      "date": "08/08/19"
+    }
+  ],
+  "amount": ["CANTIDAD 1","CANTIDAD 2","CANTIDAD 3","CANTIDAD 4","CANTIDAD 5"],
+  "sizes": ["TALLA 36","TALLA 38","TALLA 40","TALLA 42"],
+  "sizeschart": [
+    {
+      "size": "XS",
+      "sleeve": "31.5 - 32",
+      "chest": "32 - 34",
+      "waist": "27.6 - 29.3"
+    },
+    {
+      "size": "S",
+      "sleeve": "31.5 - 32",
+      "chest": "32 - 34",
+      "waist": "27.6 - 29.3"
+    },
+    {
+      "size": "M",
+      "sleeve": "31.5 - 32",
+      "chest": "32 - 34",
+      "waist": "27.6 - 29.3"
+    },
+    {
+      "size": "L",
+      "sleeve": "31.5 - 32",
+      "chest": "32 - 34",
+      "waist": "27.6 - 29.3"
+    },
+    {
+      "size": "XL",
+      "sleeve": "31.5 - 32",
+      "chest": "32 - 34",
+      "waist": "27.6 - 29.3"
+    },
+    {
+      "size": "XXL",
+      "sleeve": "31.5 - 32",
+      "chest": "32 - 34",
+      "waist": "27.6 - 29.3"
+    }
+  ],
+  "details": [
+    "Jeans de talle alto",
+    "Afligido",
+    "Faux bolsillos delanteros",
+    "2 bolsillos traseros",
+    "98% algodón 2% spandex"
+  ],
+  "colors": [
+    {
+      "gallery": [
+        {
+          "thumbImage": "https://dummyimage.com/70x96/9b9293/fff.png&text=Product+Gallery+Bella+Fashion+1",
+          "dataToLoad": "https://dummyimage.com/290x390/9b9293/fff.png&text=Product+Gallery+Bella+Fashion+1",
+          "image": "https://dummyimage.com/1800x1088/9b9293/fff.png&text=Product+Gallery+Bella+Fashion+1",
+          "alt": "Bella Fashion"
+        },  
+        {
+          "thumbImage": "https://dummyimage.com/70x96/9b9293/fff.png&text=Product+Gallery+Bella+Fashion+2",
+          "dataToLoad": "https://dummyimage.com/290x390/9b9293/fff.png&text=Product+Gallery+Bella+Fashion+2",
+          "image": "https://dummyimage.com/1800x1088/9b9293/fff.png&text=Product+Gallery+Bella+Fashion+2",
+          "alt": "Bella Fashion"
+        },  
+        {
+          "thumbImage": "https://dummyimage.com/70x96/9b9293/fff.png&text=Product+Gallery+Bella+Fashion+3",
+          "dataToLoad": "https://dummyimage.com/290x390/9b9293/fff.png&text=Product+Gallery+Bella+Fashion+3",
+          "image": "https://dummyimage.com/1800x1088/9b9293/fff.png&text=Product+Gallery+Bella+Fashion+3",
+          "alt": "Bella Fashion"
+        },  
+        {
+          "thumbImage": "https://dummyimage.com/70x96/9b9293/fff.png&text=Product+Gallery+Bella+Fashion+4",
+          "dataToLoad": "https://dummyimage.com/290x390/9b9293/fff.png&text=Product+Gallery+Bella+Fashion+4",
+          "image": "https://dummyimage.com/1800x1088/9b9293/fff.png&text=Product+Gallery+Bella+Fashion+4",
+          "alt": "Bella Fashion"
+        }  
+      ],
+      "color": "Grey",
+      "value": "#A8A8A8"    
+    },    
+    {
+      "gallery": [
+        {
+          "thumbImage": "https://dummyimage.com/70x96/000000/fff.png&text=Product+Gallery+Bella+Fashion+1",
+          "dataToLoad": "https://dummyimage.com/290x390/000000/fff.png&text=Product+Gallery+Bella+Fashion+1",
+          "image": "https://dummyimage.com/1800x1088/000000/fff.png&text=Product+Gallery+Bella+Fashion+1",
+          "alt": "Bella Fashion"
+        },  
+        {
+          "thumbImage": "https://dummyimage.com/70x96/000000/fff.png&text=Product+Gallery+Bella+Fashion+2",
+          "dataToLoad": "https://dummyimage.com/290x390/000000/fff.png&text=Product+Gallery+Bella+Fashion+2",
+          "image": "https://dummyimage.com/1800x1088/000000/fff.png&text=Product+Gallery+Bella+Fashion+2",
+          "alt": "Bella Fashion"
+        },  
+        {
+          "thumbImage": "https://dummyimage.com/70x96/000000/fff.png&text=Product+Gallery+Bella+Fashion+3",
+          "dataToLoad": "https://dummyimage.com/290x390/000000/fff.png&text=Product+Gallery+Bella+Fashion+3",
+          "image": "https://dummyimage.com/1800x1088/000000/fff.png&text=Product+Gallery+Bella+Fashion+3",
+          "alt": "Bella Fashion"
+        },  
+        {
+          "thumbImage": "https://dummyimage.com/70x96/000000/fff.png&text=Product+Gallery+Bella+Fashion+4",
+          "dataToLoad": "https://dummyimage.com/290x390/000000/fff.png&text=Product+Gallery+Bella+Fashion+4",
+          "image": "https://dummyimage.com/1800x1088/000000/fff.png&text=Product+Gallery+Bella+Fashion+4",
+          "alt": "Bella Fashion"
+        }  
+      ],
+      "color": "Black",
+      "value": "#000000"    
+    },    
+    {
+      "gallery": [
+        {
+          "thumbImage": "https://dummyimage.com/70x96/2A3AAE/fff.png&text=Product+Gallery+Bella+Fashion+1",
+          "dataToLoad": "https://dummyimage.com/290x390/2A3AAE/fff.png&text=Product+Gallery+Bella+Fashion+1",
+          "image": "https://dummyimage.com/1800x1088/2A3AAE/fff.png&text=Product+Gallery+Bella+Fashion+1"
+        },  
+        {
+          "thumbImage": "https://dummyimage.com/70x96/2A3AAE/fff.png&text=Product+Gallery+Bella+Fashion+2",
+          "dataToLoad": "https://dummyimage.com/290x390/2A3AAE/fff.png&text=Product+Gallery+Bella+Fashion+2",
+          "image": "https://dummyimage.com/1800x1088/2A3AAE/fff.png&text=Product+Gallery+Bella+Fashion+2"
+        },  
+        {
+          "thumbImage": "https://dummyimage.com/70x96/2A3AAE/fff.png&text=Product+Gallery+Bella+Fashion+3",
+          "dataToLoad": "https://dummyimage.com/290x390/2A3AAE/fff.png&text=Product+Gallery+Bella+Fashion+3",
+          "image": "https://dummyimage.com/1800x1088/2A3AAE/fff.png&text=Product+Gallery+Bella+Fashion+3"
+        },  
+        {
+          "thumbImage": "https://dummyimage.com/70x96/2A3AAE/fff.png&text=Product+Gallery+Bella+Fashion+4",
+          "dataToLoad": "https://dummyimage.com/290x390/2A3AAE/fff.png&text=Product+Gallery+Bella+Fashion+4",
+          "image": "https://dummyimage.com/1800x1088/2A3AAE/fff.png&text=Product+Gallery+Bella+Fashion+4"
+        }  
+      ],
+      "color": "Blue",
+      "value": "#2A3AAE"    
+    }   
+  ]
+}

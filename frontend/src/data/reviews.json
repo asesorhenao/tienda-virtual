@@ -1,0 +1,30 @@
+
+{
+  "title": "REVIEWS",
+  "reviews": [
+    {
+        "name": "Leah M.",
+        "verified": "Comprador verificado",
+        "rating": 5,
+        "title": "Buen Producto",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia saepe vero modi nihil ab cupiditate libero odio. Repudiandae, perferendis voluptatem sequi nisi sunt, inventore, pariatur voluptas corporis in tempore illum!",
+        "date": "02/08/19"
+    },
+    {
+        "name": "Leah M.",
+        "verified": "",
+        "rating": 4,
+        "title": "Me gusta este Producto",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia saepe vero modi nihil ab cupiditate libero odio. Repudiandae, perferendis voluptatem sequi nisi sunt, inventore, pariatur voluptas corporis in tempore illum!",
+        "date": "08/08/19"
+    },
+    {
+        "name": "Leah M.",
+        "verified": "Comprador verificado",
+        "rating": 4,
+        "title": "Me gusta este Producto",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia saepe vero modi nihil ab cupiditate libero odio. Repudiandae, perferendis voluptatem sequi nisi sunt, inventore, pariatur voluptas corporis in tempore illum!",
+        "date": "08/08/19"
+    }
+  ]
+}
